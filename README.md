@@ -18,6 +18,10 @@ Wij hebben als verwachting :een functionele webppagina te bouwen die aantrekkeli
 
 # Ontwerp 🎨
 
+In de Ontwerpfase hebben wij verschillend ontwerpen kunnen creeren. Vervolgens moesten wij de essentiele punten convergeren.Deze punten waren onder andere: Eeen topbar, een Slider  en een opklaapbare vragenlijst. 
+![IMG_0948 1451](https://user-images.githubusercontent.com/76013244/140656896-c59d7ada-cf51-4861-8ef8-d0e386994a94.jpg)
+
+
 # Bouwfase 👷
 ![image](https://user-images.githubusercontent.com/76013244/140656229-87e70e59-94e3-4119-81b8-03a8505d0cc9.png)
 
