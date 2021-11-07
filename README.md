@@ -1,15 +1,14 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-Mijn Companion App Landings pagina.
+#  Mijn Companion App Landings pagina.
 
-## Beschrijving
-<!-- In deze project werken wij( Jean, Shauri en Boudewijn aan een welkomstpagina voor de  MIjn Companion App van  de HvA-studenten portaal. 🌐-->
+ 
+## Beschrijving 🧾
+  In deze project werken wij( Jean, Shauri en Boudewijn aan een welkomstpagina voor de  MIjn Companion App van  de HvA-studenten portaal. 🌐-->
 
 
-## Inhoudsopgave
+## Inhoudsopgave 📖
 
-- [Titel](#titel)
   *Onze Doel is om een responsive landings pagina te bouwen met een.
   * Shauri maakt de footer 
   * Boudewijn maakt de header 
@@ -18,7 +17,7 @@ Mijn Companion App Landings pagina.
   * Wij hebben gebruik gemaakt van HTML en CSS 
 
 
-## Code afspraken
+## Code afspraken 📔
 
 - Camelcasing toepassen
 - Comments plaatsen
@@ -26,7 +25,7 @@ Mijn Companion App Landings pagina.
 - Goede leesbaarheid hanteren
 - geen cijfers in ID
 
-## Kenmerken
+## Kenmerken 🎛️
 Huisstijl van mijn HvA
 Responsive( voor mobiele versie)
 een topbar 
