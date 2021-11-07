@@ -5,6 +5,7 @@
  
 ## Beschrijving 🧾
   In deze project werken wij( Jean, Shauri en Boudewijn aan een welkomstpagina voor de  MIjn Companion App van  de HvA-studenten portaal. 🌐-->
+  <img width="1437" alt="Schermafbeelding 2021-11-03 om 12 42 37" src="https://user-images.githubusercontent.com/45170095/140054118-18eb1f23-2562-4a72-96fb-b624bb9af801.png">
 
 
 ## Inhoudsopgave 📖
