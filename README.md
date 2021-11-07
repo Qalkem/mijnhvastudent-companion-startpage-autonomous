@@ -63,6 +63,11 @@ www.ns.nl
 https://www.hotelschool.nl/
 https://www.hva.nl/
 
+Obe van der Klei
+Martijn Han
+Jordy Roeloefs 
+Menno Manschot
+
 
 ## Licentie
 
