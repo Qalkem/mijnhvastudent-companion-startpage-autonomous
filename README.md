@@ -10,15 +10,32 @@
 
 ## Inhoudsopgave 📖
 
-  *Onze Doel is om een responsive landings pagina te bouwen met een.
+
+# Analayse🔎
+Wij hebben Als doel om een landingspagina te bouwen voor MijnHva aangezien er binnenkrot een MijnHva Companion App gaat komen. 
+Wij hebben als verwachting :een functionele webppagina te bouwen die aantrekkelijk (en modern) genoeg is voor studenten,docenten en ondersteuners die ook responsive is met de huisstijl van HvA. 
+
+
+# Ontwerp 🎨
+
+# Bouwfase 👷
+![image](https://user-images.githubusercontent.com/76013244/140656229-87e70e59-94e3-4119-81b8-03a8505d0cc9.png)
+
+# Integreren
+
+# Testen🚀
+
+ 
+
+
+## Code afspraken 📔
+
+*Onze Doel is om een responsive landings pagina te bouwen met een.
   * Shauri maakt de footer 
   * Boudewijn maakt de header 
   * Ik(Jean) heb de vragenlijst samen met Shauri aangepakt.
   * Analyse
   * Wij hebben gebruik gemaakt van HTML en CSS 
-
-
-## Code afspraken 📔
 
 - Camelcasing toepassen
 - Comments plaatsen
